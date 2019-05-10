@@ -7,7 +7,10 @@ Independent study with Matthew Ostrowski
 
 ### Day 1
 
-![some patch image](/images/1.PNG?raw=true "Optional Title")
+<!-- ![some patch image](/images/1.PNG?raw=true "Optional Title")
 
-![some patch image](/images/2.PNG?raw=true "Optional Title")
+![some patch image](/images/2.PNG?raw=true "Optional Title") -->
 
+<img src="/images/1.PNG" width="800" height="720" />
+
+<img src="/images/2.PNG" width="800" height="720" />
