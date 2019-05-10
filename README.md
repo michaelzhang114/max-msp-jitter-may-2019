@@ -10,3 +10,6 @@ Independent study with Matthew Ostrowski
 
 ##### 1-2
 <img src="/images/2.PNG" width="1024" height="768" />
+
+##### 1-3
+<img src="/images/3.PNG" width="1024" height="768" />
