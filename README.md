@@ -5,12 +5,8 @@ Independent study with Matthew Ostrowski
 
 ## Session One
 
-### Day 1
-
-<!-- ![some patch image](/images/1.PNG?raw=true "Optional Title")
-
-![some patch image](/images/2.PNG?raw=true "Optional Title") -->
-
+##### 1-1
 <img src="/images/1.PNG" width="1024" height="768" />
 
+##### 1-2
 <img src="/images/2.PNG" width="1024" height="768" />
