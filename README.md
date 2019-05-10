@@ -11,6 +11,6 @@ Independent study with Matthew Ostrowski
 
 ![some patch image](/images/2.PNG?raw=true "Optional Title") -->
 
-<img src="/images/1.PNG" width="1024" height="768" />
+<img src="/images/1.PNG" width="720" height="348" />
 
-<img src="/images/2.PNG" width="1024" height="768" />
+<img src="/images/2.PNG" width="720" height="348" />
