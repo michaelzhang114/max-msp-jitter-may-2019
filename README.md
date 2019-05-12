@@ -4,6 +4,7 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 # TODO:
 - 04: @val and operators
 - 05: rgb2luma - change order of trigger
+- 07: how the abs works
 
 ## Session One
 
@@ -24,3 +25,6 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
 ##### 1-6
 <img src="/images/6.PNG" width="1024" height="768" />
+
+##### 1-7
+<img src="/images/7.PNG" width="1024" height="768" />
