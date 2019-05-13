@@ -29,8 +29,11 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 ##### 1-7
 <img src="/images/7.PNG" width="1024" height="768" />
 
-##### 1-8
+##### 2-1
 <img src="/images/8.PNG" width="1024" height="768" />
 
-##### 1-9
+##### 2-2
 <img src="/images/9.PNG" width="1024" height="768" />
+
+##### 2-3
+<img src="/images/10.PNG" width="1024" height="768" />
