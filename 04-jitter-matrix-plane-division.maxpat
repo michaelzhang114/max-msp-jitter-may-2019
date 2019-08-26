@@ -56,7 +56,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 624.0, 527.0, 150.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "single value applies to entire matrix"
 				}
 
@@ -187,11 +186,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-31",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 293.0, 406.0, 47.0, 20.0 ],
-					"text" : "divide"
+					"patching_rect" : [ 293.0, 406.0, 76.0, 33.0 ],
+					"text" : "greater than pass"
 				}
 
 			}
@@ -272,8 +272,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 252.0, 406.0, 34.0, 22.0 ],
-					"text" : "jit.>p"
+					"patching_rect" : [ 210.0, 402.0, 80.0, 22.0 ],
+					"text" : "jit.op @op >p"
 				}
 
 			}
@@ -591,7 +591,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-12", 1 ],
-					"midpoints" : [ 581.5, 392.0, 276.5, 392.0 ],
+					"midpoints" : [ 581.5, 392.0, 280.5, 392.0 ],
 					"order" : 1,
 					"source" : [ "obj-13", 0 ]
 				}
@@ -630,7 +630,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
-					"midpoints" : [ 100.5, 397.5, 261.5, 397.5 ],
+					"midpoints" : [ 100.5, 397.5, 219.5, 397.5 ],
 					"order" : 1,
 					"source" : [ "obj-2", 0 ]
 				}

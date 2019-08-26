@@ -2,9 +2,19 @@
 Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
 # TODO:
-- 04: @val and operators
-- 05: rgb2luma - change order of trigger
-- 07: how the abs works
+- check out patcher 12, variable names in sampler-voice
+- 
+
+
+- thispoly~
+- poly~
+- pound in send and receive
+- can't set send so gotta use forward
+- windowed fft
+- edge~
+- onebang
+- zsa library in package manager
+- do vocoding
 
 ## Session One
 
@@ -37,3 +47,9 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
 ##### 2-3
 <img src="/images/10.PNG" width="1024" height="768" />
+
+##### 3-1
+<img src="/images/11.PNG" width="1024" height="768" />
+
+##### 3-2
+<img src="/images/11.PNG" width="1024" height="768" />
