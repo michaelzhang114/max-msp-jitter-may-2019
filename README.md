@@ -1,22 +1,52 @@
 # max-msp-jitter-may-2019
 Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
-# TODO:
-- check out patcher 12, variable names in sampler-voice
-- 
+# Overview
+
+*Day 1*
+- Basic Jitter
+- Reading from a video file
+- Movement detection
+- Background removal
+
+*Day 2*
+- Computer vision techniques using `cv.jit`
+- Blobs, faces, features
+
+*Day 3*
+- Send and receive
+- `poly` and `polybuffer`
+- Multi-channel techniques
+
+*Day 4*
+- Filters
+- Filter design
+- Filter banks
+- Fast Fourier Transforms (FFT)
+
+*Day 5*
+- Groove!
+
+*Day 6*
+- Jit OpenGL
+- Videoplane manipulation
+
+*Day 7*
+- Cross-fading
+- Reassignment of `polybuffer`
+
+*Day 8*
+- Line generator
+- Storing data
+
+*Day 9*
+- Jit OpenGL project
+
+*Day 10*
+- VR project using LeapMotion
 
 
-- thispoly~
-- poly~
-- pound in send and receive
-- can't set send so gotta use forward
-- windowed fft
-- edge~
-- onebang
-- zsa library in package manager
-- do vocoding
-
-## Session One
+## Day 1
 
 ##### 1-1
 <img src="/images/1.PNG" width="1024" height="768" />
@@ -39,6 +69,8 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 ##### 1-7
 <img src="/images/7.PNG" width="1024" height="768" />
 
+## Day 2
+
 ##### 2-1
 <img src="/images/8.PNG" width="1024" height="768" />
 
@@ -47,6 +79,8 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
 ##### 2-3
 <img src="/images/10.PNG" width="1024" height="768" />
+
+## Day 3
 
 ##### 3-1
 <img src="/images/11.PNG" width="1024" height="768" />
