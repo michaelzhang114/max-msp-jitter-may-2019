@@ -87,3 +87,61 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 
 ##### 3-2
 <img src="/images/12.PNG" width="1024" height="768" />
+
+##### 3-3
+<img src="/images/13.PNG" width="1024" height="768" />
+
+## Day 4
+
+##### 4-1
+<img src="/images/14.PNG" width="1024" height="768" />
+
+##### 4-2
+<img src="/images/15.PNG" width="1024" height="768" />
+
+## Day 5
+
+##### 5-1
+<img src="/images/16.PNG" width="1024" height="768" />
+
+## Day 6
+
+##### 6-1
+<img src="/images/17.PNG" width="1024" height="768" />
+
+##### 6-2
+<img src="/images/18.PNG" width="1024" height="768" />
+
+##### 6-3
+<img src="/images/19.PNG" width="1024" height="768" />
+
+##### 6-4
+<img src="/images/20.PNG" width="1024" height="768" />
+
+## Day 7
+
+##### 7-1
+<img src="/images/21.PNG" width="1024" height="768" />
+
+## Day 8
+
+##### 8-1
+<img src="/images/22.PNG" width="1024" height="768" />
+
+##### 8-2
+<img src="/images/23.PNG" width="1024" height="768" />
+
+##### 8-3
+<img src="/images/24.PNG" width="1024" height="768" />
+
+## Day 9
+
+##### 9-1
+<img src="/images/25.PNG" width="1024" height="768" />
+
+##### 9-2
+<img src="/images/26.PNG" width="1024" height="768" />
+
+
+
+## Day 10
