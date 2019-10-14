@@ -142,6 +142,13 @@ Independent study with <a href="https://ostrowski.info/">Matthew Ostrowski</a>
 ##### 9-2
 <img src="/images/26.PNG" width="1024" height="768" />
 
-
-
 ## Day 10
+
+##### 10-1
+<img src="/images/27.PNG" width="1024" height="768" />
+
+##### 10-2
+<img src="/images/28.PNG" width="1024" height="768" />
+
+##### 10-3
+<img src="/images/29.PNG" width="1024" height="768" />
